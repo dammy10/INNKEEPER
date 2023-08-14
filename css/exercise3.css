@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+.boxing {
+  margin-top: 200px;
+  margin-left: 300px;
+  display: flex;
+  position: absolute;
+}
+
+.img {
+  position: absolute;
+}
+
+/* meeting link */
+/* https://meet.google.com/cwh-zdzx-nna */
